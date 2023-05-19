@@ -1,0 +1,10 @@
+.home{
+    z-index:1
+}
+.home a{
+    color: black;
+    text-decoration: none;
+}
+.reviews{
+    background-color: rgb(159, 186, 159);
+}

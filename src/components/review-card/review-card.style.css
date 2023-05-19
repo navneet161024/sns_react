@@ -1,0 +1,13 @@
+.review-card{
+    height:250px;
+    align-items: center;
+    
+}
+.r-card{
+    width:50%;
+    border-radius: 30px;
+    
+}
+.arrow{
+    cursor:default;
+}

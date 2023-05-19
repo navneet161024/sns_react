@@ -1,0 +1,79 @@
+[
+    {
+        "id":"1",
+        "name":"session",
+        "image":"image/service1.jpg",
+        "desp":"Daily classes to boost your strength and endurance and improve the connection between your mind and body. ",
+        "services":[
+            {
+                "id":"1",
+                "name":"Yoga for a stronger you",
+                "desp":"Get up and Move. Strengthen your body and mind with energetic moves and powerful yogic asanas."
+            },
+            {
+                "id":"2",
+                "name":"Yoga for Pain Relief",
+                "desp":"A kind of pain therapy that will leave you happy! Ease your pain with these gentle and soothing yoga classes."
+            },
+            {
+                "id":"3",
+                "name":"Prenatal",
+                "desp":"Empower your pregnancy journey with these amazing sessions."
+            },
+            {
+                "id":"4",
+                "name":"Postnatal",
+                "desp":"Heal your body from the stresses of pregnancy and birth with these gentle and focused moves."
+            }
+            ,{
+                "id":"5",
+                "name":"Kids",
+                "desp":"Get your kids to fall in love with the practice of yoga! The kids will reconnect with themselves through fun movements and soothing mindfulness"
+            }
+        ]
+    },{
+        "id":"2",
+        "name":"workshops",
+        "image":"image/service2.jpg",
+        "desp":"Make your weekends joyful with yoga! The best weekend plan to feel powerful and stronger. ",
+        "services":[
+            {
+                "id":"1",
+                "name":"Say bye to Back Pain",
+                "desp":"Bid adieu to back pain with gentle and soothing yoga asanas. With guided practice your back will get much-needed relief."
+            },
+            {
+                "id":"2",
+                "name":"Yoga abs yogic diet for weight loss",
+                "desp":"Get a taste of the yogic lifestyle with this yogic diet. Along with losing pounds, you will feel healthier and energetic."
+            },
+            {
+                "id":"3",
+                "name":"Path to a stronger you",
+                "desp":"Get your mat and let's go! Powerful and effective yoga moves to strengthen your mind and body."
+            }
+        ]
+    },{
+        "id":"3",
+        "name":"corporate workshops",
+        "image":"image/service3.jpg",
+        "desp":"Daily classes to boost your strength and endurance and improve the connection between your mind and body. ",
+        "services":[
+            {
+                "id":"1",
+                "name":"Get Relief from the Sitting Disease",
+                "desp":"Get up from your office chair onto the yoga mat. Strong and effective moves to get you the much-needed relief from the sitting syndrome that is common in "
+            },
+            {
+                "id":"2",
+                "name":"Path to a stronger body",
+                "desp":"A path to stronger you! Elevate your strength game with these workouts that guarantee to take your fitness to another level. "
+            },
+            {
+                "id":"3",
+                "name":"Take extra pounds off of your sitting bones",
+                "desp":"Take your mind off work and put it in yoga instead. Learn basic moves and yoga asanas that will help you shed the pounds and make your strength soar."
+            }
+        ]
+    }
+]

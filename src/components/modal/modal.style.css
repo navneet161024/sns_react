@@ -1,0 +1,32 @@
+.modal-card{
+    height:350px;
+    width: 270px;
+    z-index: 100;
+    left: 50%;
+    bottom: 10%;
+    position:fixed;
+}
+.modal-close{
+    cursor: pointer;
+}
+.bg-teal{
+    background-color: #04AA6D;
+}
+.modal-card input{
+    padding:30px 0 ;
+    background-color: #f4f4f4;
+}
+.modal-card input:focus{
+    border: none;
+    background-color: #f4f4f4;
+}
+@media screen and (max-width:800px) {
+    .modal-card{
+        height:350px;
+        width: 350px;
+        z-index: 100;
+        left: 6%;
+        bottom: 40%;
+        position:fixed;
+    } 
+}

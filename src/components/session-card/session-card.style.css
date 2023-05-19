@@ -1,0 +1,10 @@
+.session-card{
+    height:350px;
+    width: 250px;
+    
+}
+.scard{
+    background-color:rgb(235, 240, 235 , 0.7);
+    border:solid 0.5px rgb(235, 240, 235 , 0.7);
+    border-radius: 30px;
+}
